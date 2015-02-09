@@ -63,7 +63,7 @@ Talking through these with Paul or Pip you will be in a position by the end of T
 ####Thursday 19 February 2015
 Presentation of final digital project idea. You should aim to present a creative route you see your project taking with a number of visuals (physical or digital) to outline the approach you could take forward to the six week IxD Foundation session.
 
-
+And that's that so far. We wil be adding material to this page as the project progresses.
 
 
 
