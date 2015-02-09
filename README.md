@@ -1,6 +1,6 @@
 IxD Superstars
 ===============
 
-Content covering a range of interaction designers/artists and project work aimed at foundation level art and design students will populate this in due course.
+Content covering a range of interaction designers/artists and project work aimed at introducing foundation level art and design students to the discipline.
 
-[ixdsuperstars](https://github.com/PixelPaper/ixdsuperstars/blob/master/index.md)
+Click [ixdsuperstars](https://github.com/PixelPaper/ixdsuperstars/blob/master/index.md) to see more.
