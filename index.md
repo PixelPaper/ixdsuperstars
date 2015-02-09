@@ -24,6 +24,8 @@ The people are at the top of their game and have gained recognition as key figur
 
 ###What others have created
 
+The following list of names looks at a range of people and some of the digital products they have created. Some have been born from personal side projects while other have more of a commercial origin.
+
 [Gump inc](http://gumpinc.com) run by [Vic Bell](http://www.vicbell.co.uk) and [Gavin Elliot](http://www.gavinelliott.co.uk) Gump create unique posters and t-shirts for the design conscious.
 
 [Adam Whitcroft](http://adamwhitcroft.com) designer and iconographer offers a range of icons, wireframing and prototyping tools.
@@ -49,6 +51,19 @@ Now list your interests, what inspires you in *design, art, music, film, nature,
 Great ideas come from solid research, planning and discussion. You will benefit hugely from discussion with your peers and tutors so make use of them to make sure you are going in the right direction. 
 
 Try to come up with two or three ideas you would like to explore and discuss them with your tutors before narrowing it down to one. This final idea will be the one you will take forward to completion and, through the six week session, present your work to the world through an online platform.
+
+**To keep you on track it would be useful to stick to the following deadlines.**
+
+####Thursday 12 February 2015
+Having researched a number of the designers covered during Monday's presentation you should be able to develop two to three possible routes for your personal digital project. 
+
+Talking through these with Paul or Pip you will be in a position by the end of Thursday's session to take your final project forward to the next stage.
+
+
+####Thursday 19 February 2015
+Presentation of final digital project idea. You should aim to present a creative route you see your project taking with a number of visuals (physical or digital) to outline the approach you could take forward to the six week IxD Foundation session.
+
+
 
 
 
