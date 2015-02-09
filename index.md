@@ -12,9 +12,14 @@ The people are at the top of their game and have gained recognition as key figur
 - [Dan Mall](http://danielmall.com)
 - [Robert Hodgin](http://roberthodgin.com)
 - [Aaron Koblin](http://www.aaronkoblin.com)
+- [Vic Bell](http://www.vicbell.co.uk)
+- [Matt Webb](http://berglondon.com/studio/matt-webb)
+- [Leah Buechlay](http://leahbuechley.com)
+- [Natalie Jeremijenko](http://www.nataliejeremijenko.com)
 - [Jan Robert Leegte](http://www.leegte.org)
 - [Seb Lee-Delisle](http://seb.ly)
 - [Raster Nooton](http://www.raster-noton.net)
+- [Genevieve Bell](http://newsroom.intel.com/community/intel_newsroom/bios?n=Genevieve%20Bell&f=searchAll)
 
 
 ###What others have created
