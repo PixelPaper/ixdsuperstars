@@ -69,7 +69,7 @@ Presentation of final digital project idea. You should aim to present a creative
 
 For example, say you're into collecting Barbie dolls and love 8-bit games. Combine those passions and you could end up with a series of Ken and Barbie 8-bit icons or a range of 8-bit Barbie-Through-The-Ages posters. *This is my idea so hands off ;-)* 
 
-So with your 8-bit Barbie project in action we would like to see how you would visualise it by creating a few posters or a series of icons to show off your skills.
+So with your 8-bit Barbie project in action we would like to see how you would visualise it by creating a few posters or a series of icons to show off your skills and give us an idea how it could be taken forward to the next stage.
 
 
 ###Additional resources
