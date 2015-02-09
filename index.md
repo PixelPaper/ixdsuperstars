@@ -65,7 +65,23 @@ Talking through these with Paul or Pip you will be in a position by the end of T
 ####Thursday 19 February 2015
 Presentation of final digital project idea. You should aim to present a creative route you see your project taking with a number of visuals (physical or digital) to outline the approach you could take forward to the six week IxD Foundation session.
 
-…and that's that so far. We wil be adding material to this page as the project progresses.
+**What do I need to create?** We would like to see a solid plan on how you would like to take your project further and a series of visuals of what you would intend to produce. These could either be created by hand or produced on the computer and printed off. 
+
+For example, say you're into collecting Barbie dolls and love 8-bit games. Combine those passions and you could end up with a series of Ken and Barbie 8-bit icons or a range of 8-bit Barbie Through the Ages posters. *This is my idea so hands off ;-)* 
+
+So with your 8-bit Barbie project in action we would like to see how you would visualise it by creating a few posters or a series of icons to show off your skills.
+
+
+###Additional resources
+
+Here are a few additional interaction-based resources worth checkong out.
+
+- [Mortal Engine Interactive Dance Piece](http://www.youtube.com/watch?v=sbjOMualLVs )
+- [Makey Makey](http://makeymakey.com)
+- [Ushahidi](http://www.ushahidi.com)
+- [Newstweek](http://newstweek.com)
+
+Take a look at this video from the most recent [Consumer Electronics Show](http://www.youtube.com/watch?v=Q31IRTwk4rM) to see where the future is taking us
 
 
 
