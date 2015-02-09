@@ -83,8 +83,10 @@ Here are a few additional interaction-based resources worth checkong out.
 
 Take a look at this video from the most recent [Consumer Electronics Show](http://www.youtube.com/watch?v=Q31IRTwk4rM) to see where the future is taking us.
 
-We will add to this as the project period progresses.
 
+**[Start Something: The Power of Side Projects](https://medium.com/busy-building-things/start-something-the-power-of-side-projects-648223f673af)**
+
+We will add to this as the project period progresses.
 
 
 
