@@ -24,17 +24,17 @@ The people are at the top of their game and have gained recognition as key figur
 
 ###What others have created
 
-The following list of names looks at a range of people and some of the digital products they have created. Some have been born from personal side projects while other have more of a commercial origin.
+The following list of names looks at a range of people and some of the digital products they have created. Some have been born from personal side projects while others have more of a commercial origin.
 
-[Gump inc](http://gumpinc.com) run by [Vic Bell](http://www.vicbell.co.uk) and [Gavin Elliot](http://www.gavinelliott.co.uk) Gump create unique posters and t-shirts for the design conscious.
+[Gump inc](http://gumpinc.com) run by [Vic Bell](http://www.vicbell.co.uk) and [Gavin Elliot](http://www.gavinelliott.co.uk), Gump create unique posters and t-shirts for the design conscious.
 
 [Adam Whitcroft](http://adamwhitcroft.com) designer and iconographer offers a range of icons, wireframing and prototyping tools.
 
-[Drew Wilson](http://drewwilson.com) sells and gives away a range of icons and apps from his site. His [Pictos](http://pictos.cc) range if icons come in a variety of formats.
+[Drew Wilson](http://drewwilson.com) sells and gives away a range of icons and apps from his site. His [Pictos](http://pictos.cc) range of icons come in a variety of formats.
 
 Our very own [Timothy Potter](http://tejpotter.com) created [Micons](http://micons.tejpotter.com) a set of icons of one of our favourite Apple products.
 
-[Musicons](http://musicons.co) puts a new twist on the album cover art.
+[Musicons](http://musicons.co) puts a new twist on album cover art.
 
 Former graduate [Paddy Donnelly](http://lefft.com) sells affordable prints of his work online.
 
@@ -47,6 +47,8 @@ So, now it's your turn.
 Taking a look at the designers shown above research, thoroughly, a few who particularly inspire you. Look at what they have created, what inspires them and who they have worked for. 
 
 Now list your interests, what inspires you in *design, art, music, film, nature,* it's up to you.
+
+####Research, research, research
 
 Great ideas come from solid research, planning and discussion. You will benefit hugely from discussion with your peers and tutors so make use of them to make sure you are going in the right direction. 
 
