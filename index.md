@@ -4,7 +4,7 @@ IxD Superstars
 ###The Superstars
 
 
-The following is not an exhaustive list of the the good and great from interaction design but what it will do it introduce you to a range of people who cover a wide gamet of the discipline.
+The following is not an exhaustive list of the the good and great from interaction design but what it will do it introduce you to a range of people who cover a wide gamut of the discipline.
 
 The people are at the top of their game and have gained recognition as key figure withing the interaction design field.
 
