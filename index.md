@@ -6,7 +6,7 @@ IxD Superstars
 
 The following is not an exhaustive list of the the good and great from interaction design but what it will do it introduce you to a range of people who cover a wide gamut of the discipline.
 
-The people are at the top of their game and have gained recognition as key figure withing the interaction design field.
+These people are at the top of their game and have gained recognition as key figure withing the interaction design field.
 
 - [Brendan Dawes](http://brendandawes.com)
 - [Dan Mall](http://danielmall.com)
@@ -67,7 +67,7 @@ Presentation of final digital project idea. You should aim to present a creative
 
 **What do I need to create?** We would like to see a solid plan on how you would like to take your project further and a series of visuals of what you would intend to produce. These could either be created by hand or produced on the computer and printed off. 
 
-For example, say you're into collecting Barbie dolls and love 8-bit games. Combine those passions and you could end up with a series of Ken and Barbie 8-bit icons or a range of 8-bit Barbie Through the Ages posters. *This is my idea so hands off ;-)* 
+For example, say you're into collecting Barbie dolls and love 8-bit games. Combine those passions and you could end up with a series of Ken and Barbie 8-bit icons or a range of 8-bit Barbie-Through-The-Ages posters. *This is my idea so hands off ;-)* 
 
 So with your 8-bit Barbie project in action we would like to see how you would visualise it by creating a few posters or a series of icons to show off your skills.
 
