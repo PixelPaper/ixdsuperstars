@@ -81,7 +81,7 @@ Here are a few additional interaction-based resources worth checkong out.
 - [Ushahidi](http://www.ushahidi.com)
 - [Newstweek](http://newstweek.com)
 
-Take a look at this video from the most recent [Consumer Electronics Show](http://www.youtube.com/watch?v=Q31IRTwk4rM) to see where the future is taking us
+Take a look at this video from the most recent [Consumer Electronics Show](http://www.youtube.com/watch?v=Q31IRTwk4rM) to see where the future is taking us.
 
 
 
