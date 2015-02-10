@@ -86,7 +86,9 @@ Take a look at this video from the most recent [Consumer Electronics Show](http:
 
 **[Start Something: The Power of Side Projects](https://medium.com/busy-building-things/start-something-the-power-of-side-projects-648223f673af)**
 
-We will add to this as the project period progresses.
+Here are a few people who have produced some successful side projects. 
 
-
+- [Jessica Hische’s](http://jessicahische.is) [Daily Drop Cap](http://www.dailydropcap.com)
+- [Tina Roth Eisenberg’s](http://www.swiss-miss.com) [Tattly](http://tattly.com)
+- [Gavin Strange](http://www.jam-factory.com)
 
