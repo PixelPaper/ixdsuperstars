@@ -91,4 +91,32 @@ Here are a few people who have produced some successful side projects.
 - [Jessica Hische’s](http://jessicahische.is) [Daily Drop Cap](http://www.dailydropcap.com)
 - [Tina Roth Eisenberg’s](http://www.swiss-miss.com) [Tattly](http://tattly.com)
 - [Gavin Strange](http://www.jam-factory.com)
+ 
+Next steps
+----------
+
+OK, now we are moving forward with your initial project ideas I would suggest checking out the following timetable to help you keep on track (don’t panic if this doesn’t fit with your plans but it could help):
+
+####Week 06 (this week)
+Review project and revise if necessary. 
+
+####Weeks 07–09 (this will bring you up to Easter)
+Develop a series of icons, characters, screens, etc. These would be refined on paper then taken to the computer (if appropriate). I can help with moving things to screen.
+
+*If you are looking at an app design you would be looking at developing a logo, supporting icons and the various screens to keep everything consistent.
+
+So, say your project was a series of origami-inspired, flat graphic, Star Wars characters. By Easter (or over the holidays if you need more time) you would expect to have around six characters (more if you want) created on computer (PhotoShop, Illustrator, Sketch). 
+
+So by the start of Week 10 you could have an origami-inspired, flat graphic R2D2, C3PO, Darth Vader, Obi Wan Kenobi, Yoda and Boba Fett. Wonderful!
+
+####Week 10
+Using your characters, icons, etc you could create a range of posters, postcards, laptop/smartphone backgrounds… the sky’s the limit.
+
+####Week 11
+Getting it online, set yourself up with a Tumblr, Society 6, Behance, TicTail… account. Getting your work online is the only way to get noticed. 
+
+If you’re not currently on Twitter get yourself a Twitter account and start following @shealo @ElevenThirty @fehler Twitter is an excellent vehicle for self promotion.
+
+####Week 12
+Tidy up loose ends and relax! You’re finished. party!!!
 
