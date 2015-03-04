@@ -105,7 +105,7 @@ Develop a series of icons, characters, screens, etc. These would be refined on p
 
 *If you are looking at an app design you would be looking at developing a logo, supporting icons and the various screens to keep everything consistent.
 
-So, say your project was a series of origami-inspired, flat graphic, Star Wars characters. By Easter (or over the holidays if you need more time) you would expect to have around six characters (more if you want) created on computer (PhotoShop, Illustrator, Sketch). 
+So. Say your project was a series of origami-inspired, flat graphic, Star Wars characters. By Easter (or over the holidays if you need more time) you would expect to have around six characters (more if you want) created on computer (PhotoShop, Illustrator, Sketch). 
 
 So by the start of Week 10 you could have an origami-inspired, flat graphic R2D2, C3PO, Darth Vader, Obi Wan Kenobi, Yoda and Boba Fett. Wonderful!
 
@@ -113,9 +113,9 @@ So by the start of Week 10 you could have an origami-inspired, flat graphic R2D2
 Using your characters, icons, etc you could create a range of posters, postcards, laptop/smartphone backgrounds… the sky’s the limit.
 
 ####Week 11
-Getting it online, set yourself up with a Tumblr, Society 6, Behance, TicTail… account. Getting your work online is the only way to get noticed. 
+Getting it online, set yourself up with a [Tumblr](https://www.tumblr.com/), [Society 6](http://society6.com), [Etsy](https://www.etsy.com/uk) [Behance](https://www.behance.net), [TicTail](https://tictail.com)… account. Getting your work online is the only way to get noticed. 
 
-If you’re not currently on Twitter get yourself a Twitter account and start following @shealo @ElevenThirty @fehler Twitter is an excellent vehicle for self promotion.
+If you’re not currently on Twitter get yourself a Twitter account and start following [@shealo](https://twitter.com/shealo) [@fehler](https://twitter.com/fehler) [@ElevenThirty](https://twitter.com/eleventhirty) from there we will suggest other people you should be following. Twitter is an excellent vehicle for self promotion.
 
 ####Week 12
 Tidy up loose ends and relax! You’re finished. party!!!
