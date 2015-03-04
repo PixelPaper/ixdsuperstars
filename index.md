@@ -113,7 +113,7 @@ So by the start of Week 10 you could have an origami-inspired, flat graphic R2D2
 Using your characters, icons, etc you could create a range of posters, postcards, laptop/smartphone backgrounds… the sky’s the limit.
 
 ####Week 11
-Getting it online, set yourself up with a [Tumblr](https://www.tumblr.com/), [Society 6](http://society6.com), [Etsy](https://www.etsy.com/uk) [Behance](https://www.behance.net), [TicTail](https://tictail.com)… account. Getting your work online is the only way to get noticed. 
+Getting it online, set yourself up with a [Tumblr](https://www.tumblr.com/), [Society 6](http://society6.com), [Etsy](https://www.etsy.com/uk), [Behance](https://www.behance.net), [TicTail](https://tictail.com)… account. Getting your work online is the only way to get noticed. 
 
 If you’re not currently on Twitter get yourself a Twitter account and start following [@shealo](https://twitter.com/shealo) [@fehler](https://twitter.com/fehler) [@ElevenThirty](https://twitter.com/eleventhirty) from there we will suggest other people you should be following. Twitter is an excellent vehicle for self promotion.
 
